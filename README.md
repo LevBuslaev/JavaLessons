@@ -1,2 +1,3 @@
 # JavaLessons
-fromIgor
+fromIgor.
+Her lessons is the best lessons!
